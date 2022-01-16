@@ -1,4 +1,4 @@
-package model.exceptions;
+package exercise01.model.exceptions;
 
 public class DomainException extends Exception{
     private final static long serialVersionUID = 1L;
